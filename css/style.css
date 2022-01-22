@@ -1,0 +1,41 @@
+body {
+  background-color: linen;
+  text-align: center;
+}
+
+.bgImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  animation: fadeIn 0.5s linear;
+}
+
+.hidden {
+  display: none;
+}
+
+#todo-text {
+  border: none;
+  border-radius: 10px;
+  width: 40%;
+  height: 30px;
+  background-color: linen;
+  opacity: 0.6;
+}
+
+#author,
+#city {
+  font-size: small;
+  opacity: 0.5;
+}
+
+.todo-button {
+  border: none;
+  background: transparent;
+}
+
+#todo-list {
+  list-style: none;
+  margin-right: 50px;
+}
