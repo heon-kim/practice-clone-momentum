@@ -15,7 +15,8 @@ const quotes = [
   { quote: "hostile to strangers", author: "Jason Nemer" },
   { quote: "Quit carbohydrates and sugar.", author: "Peter Attia" },
   {
-    quote: "'What? You too? I thought it was just me', friendship sprouts.",
+    quote:
+      "When you say 'What? You too? I thought it was just me', friendship sprouts.",
     author: "C.S. Lewis",
   },
   {
