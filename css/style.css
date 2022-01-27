@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+input:focus {
+  outline: none;
+}
+
 .bgImage {
   position: absolute;
   top: 0;
