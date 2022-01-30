@@ -21,6 +21,7 @@ input:focus {
 
 #todo-text {
   border: none;
+  padding: 0 10px;
   border-radius: 10px;
   width: 40%;
   height: 30px;
